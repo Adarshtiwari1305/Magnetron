@@ -1,4 +1,4 @@
-![Magneteon](https://i.imgur.com/1oah5E2.jpg)
+![Magneteon](https://telegra.ph/file/50a9b077e58caf7f52e2c.jpg)
 # Magnetron 
 <p align="center">
 <a href="https://www.codacy.com/gh/Adarshtiwari/Magnetron/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Adarshtiwari1305/Magnetron&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
